@@ -1,0 +1,21 @@
+Extracts the artist column from the Spotify CSV and prints it
+
+awk -F "\"*,\"*" '{print $3}’ regional-global-daily-latest.csv
+
+awk -F "\"*,\"*" '{print $3}’ regional-global-daily-latest.csv 
+
+cat regional-global-daily-latest.csv | cut -d ',' -f3
+
+Downloads movie lens latest dataset
+
+curl -o movielensdata.zip http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+
+Unzips the file
+
+unzip movielensdata.zip 
+
+Previews first 12 lines of movies.csv
+
+head -n 12 movies.csv
+
+Preview last 4 lines of movies.csv
