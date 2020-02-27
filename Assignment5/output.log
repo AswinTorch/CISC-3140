@@ -1,0 +1,242 @@
+Script started on Thu Feb 27 18:48:42 2020
+[1m[7m%[27m[1m[0m                                                              [0m[27m[24m[Jaswinnair@MacBook-Pro Downloads % [K[?2004h[7mcat regional-global-daily-la[7mt[7mest.csv | cut -d ',' -f3[27m[K[A[9C[27mc[27ma[27mt[27m [27mr[27me[27mg[27mi[27mo[27mn[27ma[27ml[27m-[27mg[27ml[27mo[27mb[27ma[27ml[27m-[27md[27ma[27mi[27ml[27my[27m-[27ml[27mat[27me[27ms[27mt[27m.[27mc[27ms[27mv[27m [27m|[27m [27mc[27mu[27mt[27m [27m-[27md[27m [27m'[27m,[27m'[27m [27m-[27mf[27m3[?2004l
+
+Artist
+"The Weeknd"
+"Tones and I"
+"Roddy Ricch"
+"Dua Lipa"
+"Justin Bieber"
+"KAROL G"
+"Trevor Daniel"
+"The Weeknd"
+"Billie Eilish"
+"Arizona Zervas"
+"Justin Bieber"
+Future
+"Billie Eilish"
+"Post Malone"
+"Bad Bunny"
+"Lewis Capaldi"
+"Doja Cat"
+"Maroon 5"
+Eminem
+"Harry Styles"
+"Billie Eilish"
+BTS
+"Lil Mosey"
+"Lewis Capaldi"
+"SAINt JHN"
+"Shawn Mendes"
+Halsey
+"Justin Bieber"
+"Black Eyed Peas"
+"Camila Cabello"
+"Dimelo Flow"
+Surfaces
+"Dua Lipa"
+BTS
+MEDUZA
+"J Balvin"
+"Sam Smith"
+"Roddy Ricch"
+"Bad Bunny"
+Dalex
+Powfu
+"Anuel AA"
+"YNW Melly"
+Regard
+"Selena Gomez"
+Ashe
+BTS
+BTS
+"Rauw Alejandro"
+"Nicky Jam"
+"Ed Sheeran"
+"Post Malone"
+"Jonas Brothers"
+BTS
+"Ali Gatie"
+BTS
+Khalid
+BROCKHAMPTON
+blackbear
+"Myke Towers"
+BTS
+"Billie Eilish"
+000 Hours (with Justin Bieber)"
+"Jack Harlow"
+"Billie Eilish"
+"Selena Gomez"
+BTS
+DaBaby
+"Travis Scott"
+Mustard
+Shakira
+"Ed Sheeran"
+"Anuel AA"
+BTS
+"JP Saxe"
+BTS
+"Juice WRLD"
+BTS
+"Harry Styles"
+"Lady Gaga"
+"Selena Gomez"
+ Gunna and London On Da Track)"
+"Jhay Cortez"
+BTS
+"Don Toliver"
+BTS
+"J Balvin"
+"Bad Bunny"
+"Ariana Grande"
+JACKBOYS
+"Tones and I"
+"The Weeknd"
+ Pt. II"
+"Juice WRLD"
+"Ali Gatie"
+Y2K
+"Jhay Cortez"
+BTS
+DaBaby
+"Post Malone"
+Stormzy
+"Lil Baby"
+"5 Seconds of Summer"
+"Sam Smith"
+"Lil Nas X"
+Marshmello
+Tyga
+Lauv
+BTS
+"Lewis Capaldi"
+"Rauw Alejandro"
+24kGoldn
+"Nicky Jam"
+"Pop Smoke"
+"Billie Eilish"
+"Imagine Dragons"
+G-Eazy
+"Myke Towers"
+"J Balvin"
+"Post Malone"
+"Jonas Brothers"
+"Harry Styles"
+Halsey
+BTS
+Queen
+ DaBaby & Lil Baby) - Remix"
+Dalex
+"Ed Sheeran"
+"Post Malone"
+"Lil Tecca"
+"James Arthur"
+"Ed Sheeran"
+Kina
+"Daddy Yankee"
+Tainy
+"Thiaguinho MT"
+Lizzo
+"Harry Styles"
+"Juice WRLD"
+"Daddy Yankee"
+Drake
+Lunay
+"Noah Cyrus"
+blackbear
+DaBaby
+"Conan Gray"
+"Niall Horan"
+"Sam Smith"
+"TOKYO’S REVENGE"
+"Travis Scott"
+"Ed Sheeran"
+XXXTENTACION
+XXXTENTACION
+"Billie Eilish"
+MEDUZA
+"benny blanco"
+Lauv
+SHAED
+"Rich Music LTD"
+"Ava Max"
+"Henrique & Juliano"
+"Lil Uzi Vert"
+ next"
+"Maroon 5"
+Kina
+"Pedro Sampaio"
+"Travis Scott"
+Kygo
+"Billie Eilish"
+"Polo G"
+"Olivia Rodrigo"
+"The Weeknd"
+"John Legend"
+"Taylor Swift"
+"Rich Music LTD"
+Eminem
+"Post Malone"
+"Ellie Goulding"
+Bazzi
+"Billie Eilish"
+Lizzo
+"The Chainsmokers"
+Joji
+"K CAMP"
+"Dean Lewis"
+"5 Seconds of Summer"
+"Tame Impala"
+"Shawn Mendes"
+"Billie Eilish"
+Camilo
+"Panic! At The Disco"
+"Chris Brown"
+Sech
+XXXTENTACION
+"Major Lazer"
+"The Weeknd"
+"Dominic Fike"
+"Alec Benjamin"
+Dalex
+Reik
+[1m[7m%[27m[1m[0m                                                              [0m[27m[24m[Jaswinnair@MacBook-Pro Downloads % [K[?2004h[7mcurl -o movielensdata.zip ht[7mt[7mp://files.grouplens.org/datasets/movielens/ml-latest-small.zi[7mp[27m[K[A[A[33C[27mc[27mu[27mr[27ml[27m [27m-[27mo[27m [27mm[27mo[27mv[27mi[27me[27ml[27me[27mn[27ms[27md[27ma[27mt[27ma[27m.[27mz[27mi[27mp[27m [27mh[27mtt[27mp[27m:[27m/[27m/[27mf[27mi[27ml[27me[27ms[27m.[27mg[27mr[27mo[27mu[27mp[27ml[27me[27mn[27ms[27m.[27mo[27mr[27mg[27m/[27md[27ma[27mt[27ma[27ms[27me[27mt[27ms[27m/[27mm[27mo[27mv[27mi[27me[27ml[27me[27mn[27ms[27m/[27mm[27ml[27m-[27ml[27ma[27mt[27me[27ms[27mt[27m-[27ms[27mm[27ma[27ml[27ml[27m.[27mz[27mip[?2004l
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 21  955k   21  204k    0     0   370k      0  0:00:02 --:--:--  0:00:02  369k100  955k  100  955k    0     0   627k      0  0:00:01  0:00:01 --:--:--  627k100  955k  100  955k    0     0   627k      0  0:00:01  0:00:01 --:--:--  627k
+[1m[7m%[27m[1m[0m                                                              [0m[27m[24m[Jaswinnair@MacBook-Pro Downloads % [K[?2004h[7munzip movielensdata.zip [27m[24D[27mu[27mn[27mz[27mi[27mp[27m [27mm[27mo[27mv[27mi[27me[27ml[27me[27mn[27ms[27md[27ma[27mt[27ma[27m.[27mz[27mi[27mp[27m [?2004l
+Archive:  movielensdata.zip
+   creating: ml-latest-small/
+  inflating: ml-latest-small/links.csv  
+  inflating: ml-latest-small/tags.csv  
+  inflating: ml-latest-small/ratings.csv  
+  inflating: ml-latest-small/README.txt  
+  inflating: ml-latest-small/movies.csv  
+[1m[7m%[27m[1m[0m                                                              [0m[27m[24m[Jaswinnair@MacBook-Pro Downloads % [K[?2004h[7mhead -n 12 movies.csv[27m[21D[27mh[27me[27ma[27md[27m [27m-[27mn[27m [27m1[27m2[27m [27mm[27mo[27mv[27mi[27me[27ms[27m.[27mc[27ms[27mv[?2004l
+head: movies.csv: No such file or directory
+[1m[7m%[27m[1m[0m                                                              [0m[27m[24m[Jaswinnair@MacBook-Pro Downloads % [K[?2004hccd mk 
+[Jml-latest-small/   movielensdata.zip[A[0m[27m[24m[34Ccd m[Kl-latest-small[1m/[0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                              [0m[27m[24m[Jaswinnair@MacBook-Pro ml-latest-small % [K[?2004hc cd ml-latest-small[18Dhead -n 12 movies.csv[?2004l
+movieId,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji (1995),Adventure|Children|Fantasy
+3,Grumpier Old Men (1995),Comedy|Romance
+4,Waiting to Exhale (1995),Comedy|Drama|Romance
+5,Father of the Bride Part II (1995),Comedy
+6,Heat (1995),Action|Crime|Thriller
+7,Sabrina (1995),Comedy|Romance
+8,Tom and Huck (1995),Adventure|Children
+9,Sudden Death (1995),Action
+10,GoldenEye (1995),Action|Adventure|Thriller
+11,"American President, The (1995)",Comedy|Drama|Romance
+[1m[7m%[27m[1m[0m                                                              [0m[27m[24m[Jaswinnair@MacBook-Pro ml-latest-small % [K[?2004hhead -n 12 movies.csv[1C[P[11C [12D[P[11C [12D4 movies.csv[11D[P[16C [17D[P[16C [17Dh[P[16C [17D[P[16C [17Dt -n 4 movies.csv[16Dta -n 4 movies.csv[16Di -n 4 movies.csv[16Dl -n 4 movies.csv[16D[?2004l
+193583,No Game No Life: Zero (2017),Animation|Comedy|Fantasy
+193585,Flint (2017),Drama
+193587,Bungo Stray Dogs: Dead Apple (2018),Action|Animation
+193609,Andrew Dice Clay: Dice Rules (1991),Comedy
+[1m[7m%[27m[1m[0m                                                              [0m[27m[24m[Jaswinnair@MacBook-Pro ml-latest-small % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                              [0m[27m[24m[Jaswinnair@MacBook-Pro ml-latest-small % [K[?2004heexit[?2004l
+
+Script done on Thu Feb 27 18:49:38 2020
